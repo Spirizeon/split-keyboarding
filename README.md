@@ -4,6 +4,7 @@
 
 # split-keyboarding
 building a split keyboard at less than half the price through open source stuff
+Layout we're using: **Sweep MX Bling**
 ## Components
 
 ### 3D Printed things

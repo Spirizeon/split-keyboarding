@@ -21,9 +21,15 @@ Layout we're using: **Sweep MX Bling**
 + 3 pin config
 
 ### Electronics
-+ USB-C cable
-+ Audio cables
-+ 2x raspberry pico
++ USB-C & Audio cable
++ 2x pro micro type c controllers (with pins)
+  
+<img src="https://github.com/user-attachments/assets/0901eaf4-df46-47c5-803a-687d262d4eb6"/> <img src="https://github.com/user-attachments/assets/1db7a03b-bf9e-4822-8524-78e1ba8cc218" />
+
++ TRRS jack (for syncing both keyboards)
+
+
+
 + Solder & Gun
 
 ### Software

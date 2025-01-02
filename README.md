@@ -7,20 +7,18 @@ building a split keyboard at less than half the price through open source stuff
 Layout we're using: **Sweep MX Bling**
 ## Components
 
-### 3D Printed things
-+ Case
-![image](https://github.com/user-attachments/assets/6ab634cf-18e2-40bc-b015-2b2aceb9d635)
+### 3D Printable things
 
-+ Keycaps
+![image](https://github.com/user-attachments/assets/bd77846a-c27d-4a49-8dd5-22ccb740e14a)
 
-
-### Other stuff
-+ PCB (gerber files added for printing) ✔️
-  
+### PCB Fabrication
 ![image](https://github.com/user-attachments/assets/92d41962-ca1b-4e18-a59c-e20a90810333)
 
 
-+ Switches
+### Switches
++ Style: Yellow/Red/Blue
++ Type: Kailh MX/Cherry MX
++ 3 pin config
 
 ### Electronics
 + USB-C cable

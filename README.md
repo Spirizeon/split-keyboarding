@@ -9,8 +9,10 @@ Layout we're using: **Sweep MX Bling**
 
 ### 3D Printed things
 + Case
+![image](https://github.com/user-attachments/assets/6ab634cf-18e2-40bc-b015-2b2aceb9d635)
+
 + Keycaps
-+ Tilt stands
+
 
 ### Other stuff
 + PCB (gerber files added for printing) ✔️

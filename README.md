@@ -12,7 +12,11 @@ building a split keyboard at less than half the price through open source stuff
 + Tilt stands
 
 ### Other stuff
-+ PCB (can be printed)
++ PCB (gerber files added for printing) ✔️
+  
+![image](https://github.com/user-attachments/assets/92d41962-ca1b-4e18-a59c-e20a90810333)
+
+
 + Switches
 
 ### Electronics

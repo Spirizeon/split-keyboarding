@@ -2,9 +2,9 @@
 <img src="https://github.com/user-attachments/assets/bc043015-436c-4fc2-a220-990a1ceaf01b" height="500px" align="center"/>
 </div>
 
-# split-keyboarding
+# split-keyboarding: Buillding a "Ferris Sweep MX Bling" split ergonomic keyboard 
 building a split keyboard at less than half the price through open source stuff
-Layout we're using: **Sweep MX Bling**
+
 ## Components
 
 ### 3D Printable things
@@ -22,16 +22,14 @@ Layout we're using: **Sweep MX Bling**
 
 ### Electronics
 + USB-C & Audio cable
-+ 2x pro micro type c controllers (with pins)
++ 2x pro micro type c controllers (with pins) & TRRS jack
   
 <img src="https://github.com/user-attachments/assets/0901eaf4-df46-47c5-803a-687d262d4eb6"/> <img src="https://github.com/user-attachments/assets/1db7a03b-bf9e-4822-8524-78e1ba8cc218" />
 
-+ TRRS jack (for syncing both keyboards)
 
 
 
 + Solder & Gun
 
-### Software
-+ firmware
-+ flasher
+### Flashing QMK firmware
+https://www.youtube.com/watch?v=HjLx8C5f4mM
